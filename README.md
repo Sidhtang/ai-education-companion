@@ -182,26 +182,33 @@ This project implements several advanced technical approaches:
 
 ### Starting a Learning Session
 
-1. Navigate to the "Learn" tab
-2. Enter a topic you want to learn (e.g., "Python functions", "Photosynthesis")
-3. Select the desired content type (full lesson, condensed lesson, or quiz)
-4. Click "Generate Learning Content"
-5. Study the generated content and provide your answers
-6. Mark your answers as correct or incorrect to receive feedback
-7. The system will automatically adapt to your learning style and performance
+. Navigate to the "Learn" tab
+. Enter a topic you want to learn (e.g., "Python functions", "Photosynthesis")
+ ![Screenshot 2025-05-02 131625](https://github.com/user-attachments/assets/86c3bcc9-a787-4f63-a5b4-88c21dee941a)
+
+
+
+. Select the desired content type (full lesson, condensed lesson, or quiz)
+. Click "Generate Learning Content"
+. Study the generated content and provide your answers
+. Mark your answers as correct or incorrect to receive feedback
+ The system will automatically adapt to your learning style and performance
 
 ### Viewing Progress and Insights
 
-1. Navigate to the "Progress & Insights" tab
-2. Click "Get Learning Insights" for a summary of your strengths and areas for improvement
-3. Click "Generate Full Progress Report" for comprehensive analytics
-4. Use "Visualize Learning" to see graphical representations of your learning progress
+. Navigate to the "Progress & Insights" tab
+. Click "Get Learning Insights" for a summary of your strengths and areas for improvement
+  ![image](https://github.com/user-attachments/assets/7b9fe73e-bf3d-42f9-bcf2-7745e1bcb457)
+. Click "Generate Full Progress Report" for comprehensive analytics
+. Use "Visualize Learning" to see graphical representations of your learning progress
 
 ### Managing Sessions
 
-1. Navigate to the "Session Management" tab
-2. Click "End Current Session" when you're done learning
-3. The system will save your progress and update your learner profile
+. Navigate to the "Session Management" tab
+ ![image](https://github.com/user-attachments/assets/ec7d54f6-fd3e-4997-97de-e5c72970b3f8)
+
+. Click "End Current Session" when you're done learning
+. The system will save your progress and update your learner profile
 
 ## 📚 Research Background
 
