@@ -1,0 +1,9 @@
+google-generativeai
+gradio>=4.0.0
+numpy
+tensorflow
+pandas
+torch
+python-dotenv
+scikit-learn
+matplotlib
